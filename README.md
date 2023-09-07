@@ -1,7 +1,7 @@
 # Time-of-Flight-Calculatiom-of-Ultrasonic-Gas-Flow-Meter-using-DSP
 
 ## Overview
-This repository contains MATLAB code for the calculation of Time of Flight (TOF) in ultrasonic gas flow meters. The code is developed based on the principles outlined in the research paper titled "Applications of digital signal processing methods in TOF calculation of ultrasonic gas flowmeter" by Ma, J., Xu, K. J., Jiang, Z., Zhang, L., & Xu, H. R. (2021) [Link to Paper](insert_paper_link_here).
+This repository contains MATLAB code for the calculation of Time of Flight (TOF) in ultrasonic gas flow meters. The code is developed based on the principles outlined in the research paper titled "Applications of digital signal processing methods in TOF calculation of ultrasonic gas flowmeter" by Ma, J., Xu, K. J., Jiang, Z., Zhang, L., & Xu, H. R. (2021) [Link to Paper]((https://www.sciencedirect.com/science/article/abs/pii/S0955598621000479)).
 
 ### What are Ultrasonic Gas Flow Meters?
 Ultrasonic gas flow meters are sophisticated instruments used for measuring the flow rate of gases in various industrial processes. They employ ultrasonic sensors to calculate the velocity of gas flow by measuring the time taken by ultrasonic waves to travel from one transducer to another.
